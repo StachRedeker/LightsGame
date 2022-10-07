@@ -30,3 +30,6 @@ My own arcade game. Sounds awesome! The plan is to
 [MIT](/LICENSE)
 
 ## Acknowledgements
+https://docs.arduino.cc/tutorials/communication/guide-to-shift-out
+https://www.youtube.com/watch?v=liZMwInWuTM
+
