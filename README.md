@@ -1,5 +1,5 @@
 # LightsGame
-> A modern version of a classic (1972) game: 1D pong. But, more importantly: my first PCB!
+> A modern version of a classic (1972) game: 1D pong. But, most importantly: my first PCB!
 
 As a second year Electrical Engineering student, I wanted to do a project that would show of various skills that I learned during my studies. One of the skills is PCB design, for which I followed an extracurricular course. I also wanted to use the seven segment displays that I have never worked with before. Because at the moment, those were collecting dust in my drawers.
 
