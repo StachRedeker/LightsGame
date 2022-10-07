@@ -20,6 +20,8 @@ My own arcade game. Sounds awesome! The plan is to
 
 ## PCB design
 
+<img src="Pictures/PCB_PCB_LightsGames.png" width="49%"/> <img src="Pictures/PCB_PCB_LightsGames_3D.png" width="49%"/> 
+
 ## Working version!
 
 ## Plans for improvements?
