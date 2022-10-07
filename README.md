@@ -25,6 +25,13 @@ My own arcade game. Sounds awesome! The plan is to
 ## Working version!
 
 ## Plans for improvements?
+Currently, I have no plans for releasing a version 2. I am not planning on making this a commercially available product, scince this LightsGame was solely designed as a fun weekend project. That being said, this project is fully open source. Feel free to make your own adaptations! If you like hardware design, extend the game to two dimensions. If you like software design, program your own gamemodes. And if you like PCB design, make a version with less mistakes than mine. Or heck, do it all!
+
+The following improvements can be made:
+- [ ] Assigning individual resistors to the LEDs in order to increase robustness.
+- [ ] Using thicker PCB traces for power lines.
+- [ ] Adding the yellow LEDs to the PCB (instead of just using red LEDs).
+- [ ] Replacing the Arduino Nano by a programmable Atmega 328p SMD chip.
 
 ## Licence
 [MIT](/LICENSE)
