@@ -11,7 +11,12 @@ My own arcade game. Sounds awesome! The plan is to
 
 ### Schematic
 
+![Electrical schematic](Pictures/Schematic_LightsGames.png)
+
+
 ### Breadboard realisation
+
+![Messy breadboard realisation](Pictures/messyBreadboard2.jpeg)
 
 ## PCB design
 
