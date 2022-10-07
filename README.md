@@ -17,6 +17,6 @@ Introduction
 ## Plans for improvements?
 
 ## Licence
-[MIT](/LICENCE)
+[MIT](/LICENSE)
 
 ## Acknowledgements
