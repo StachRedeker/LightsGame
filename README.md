@@ -7,7 +7,12 @@ My first thought was to make a [stack calculator](https://orkhanhuseyn.medium.co
 
 My own arcade game. Sounds awesome! The plan was to make a 1D replica of the good old Pong game by Atari. You know right, that [tennis game](https://www.ponggame.org/) where you score a point if the other player is unable to return the ball before it hits the back wall?
 
-## Features
+### LightsGame features
+- Fun game for one or two players
+- Autoplay mode & win animation
+- Custom design centered around an Arduino Nano
+- Open source hardware and software
+- Total costs: ~15 euros per board
 
 
 ## Electric circuit design
