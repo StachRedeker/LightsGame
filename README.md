@@ -82,7 +82,9 @@ void updateLEDs() {
 For LED numbers `<8`, it is more challenging. These LEDs are controlled by the shift register. For this, we alter a certain byte (array of 8 bits), `leds`, using the `bitSet()` instruction. This instruction sets the asked bit in the byte to whatever value (0/1) we specify. Afterwards, we call the subfunction `updateLEDs()` which sends the new byte to the shift register. 
 
 
-## Working version!
+## Final product
+
+![Final product](Pictures/done.jpg)
 
 ## Plans for improvements?
 Currently, I have no plans for releasing a version 2. I am not planning on making this a commercially available product, scince LightsGame was solely designed as a fun weekend project. That being said, this project is fully open source. Feel free to make your own adaptations! If you like hardware design, extend the game to two dimensions. If you like software design, program your own gamemodes. And if you like industrial design, make an amazing 3D case for the PCB. Or heck, do it all!
@@ -97,6 +99,7 @@ The following improvements can be made:
 [MIT](/LICENSE)
 
 ## Acknowledgements
-https://docs.arduino.cc/tutorials/communication/guide-to-shift-out
-https://www.youtube.com/watch?v=liZMwInWuTM
+[A useful quide on how to use shift registers.](https://docs.arduino.cc/tutorials/communication/guide-to-shift-out)
+
+[GreatScott! has built something similar (of course he has). His version is bigger and works differently.](https://www.youtube.com/watch?v=liZMwInWuTM)
 
